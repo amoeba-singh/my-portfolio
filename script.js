@@ -90,7 +90,10 @@ themeToggleBtn.addEventListener("click", function () {
 
 });
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c6e68071df6ddbc688f03b90b5a72e1a47f3a407
 /**
  * check & apply last time selected theme from localStorage
  */
